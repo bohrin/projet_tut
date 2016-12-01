@@ -1,0 +1,47 @@
+/*sylte du projet*/
+
+
+body{
+	background-image: url("letttre.jpg");
+	background-repeat: repeat;
+	background-size:20%;
+}
+
+header .jumbotron{
+	background-image: url("banniere.png");
+	height:300px;
+	color:white;
+	font-family:impact;
+}
+
+h1{
+	font-size:900px;
+}
+
+.active a {
+	
+	color:white !important;
+	background-color:#ea9920 !important;
+}
+
+nav {
+	font-size:120%;
+}
+
+footer{
+	position:absolute;bottom:0;left:1;right:1;
+	margin-bottom:10px;
+	background-color:#111111;
+	opacity:0.8;
+	border-radius:15px;
+	width:1000px;
+	height:30px;
+	color:white;
+}
+
+h2{
+	font-size:250%;
+	opacity:0.9;
+}
+
+
