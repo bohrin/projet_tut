@@ -13,12 +13,9 @@ header .jumbotron{
 	background-image: url("banniere.png");
 	height:300px;
 	color:white;
-	font-family:impact;
+	font-family: Impact, "Arial Black", sans-serif;
 }
 
-h1{
-	font-size:900px;
-}
 
 .active a {
 
@@ -33,6 +30,7 @@ nav {
 h2{
 	font-size:250%;
 	opacity:0.7;
+	font-family: Impact, "Arial Black", sans-serif;
 }
 
 
@@ -66,4 +64,7 @@ margin-bottom: 5px;
 	.img_resp{
 		width: 280px;
 	}
+	body{
+	background-size:100%;
+        }
 }
